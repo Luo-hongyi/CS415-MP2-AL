@@ -4,6 +4,7 @@
 - Build an open-world map (an island)
   - Reference: https://www.youtube.com/watch?v=RCENB-s5POA
 - Player characters can run, jump, and fly
+- Remove player control for a short time after damage
 
 ## Collectible Items
 - Gems
