@@ -8,7 +8,6 @@ This game is an open-world adventure where players are tasked to explore an isla
 
 The game features an open-world map, representing an island amid the ocean, encompassing diverse terrains such as grasslands, forests, hills, and mountains. The intricacy of this map provides players with a 5 to 10 minutes exploration experience.
 
-![[Pasted image 20240220155520.png]]
 ### 2.2 Character Design
 
 The player's character has the ability to run, jump, and fly, which offers players to explore the map.
@@ -28,8 +27,6 @@ Four types of gems have been dispersed across the map for players to collect and
 - The game ends with a victory when the player collects a certain quantity of gems.
 
 ## 5. Enemy Design
-
-![[Pasted image 20240220160205.png]]
 
 Three types of enemies have been designed for this game:
 
