@@ -1,10 +1,10 @@
 # Overview
 
-This game is an open-world adventure where players are tasked to explore an island, collect gems, and combat enemies. The ultimate objective of the game is to collect a specified number of gems while preserving the player's health status.
+This game is an open-world-like adventure where players are tasked to explore an island, collect gems, and combat enemies. The ultimate objective of the game is to collect a specified number of gems while preserving the player's health status.
 
 # Map and Character
 
-The game features an open-world map, representing an island amid the ocean, encompassing diverse terrains such as grasslands, forests, hills, and mountains. The intricacy of this map provides players with a 5 to 10 minutes exploration experience.
+The game features an open-world-like map, representing an island amid the ocean, encompassing diverse terrains such as grasslands, forests, hills, and mountains. The intricacy of this map provides players with a 5 to 10 minutes exploration experience.
 
 The player's character has the ability to run, jump, and fly, which offers players to explore the map.
 
@@ -40,7 +40,7 @@ When the player sustains damage, it is pushed back a few steps, lose control for
 
 # Design Decisions
 
-- Opting for an open-world map design to enhance the player's exploration enjoyment and game complexity.
+- Opting for an open-world-like map design to enhance the player's exploration enjoyment and game complexity.
 - Increasing the game's challenge and player's game experience by designing a variety of enemies and damage methods.
 - Enhancing the game's strategy and complexity by designing a health system and collectibles, requiring players to balance between gem collection and maintaining health.
 - Guiding players to explore different areas of the map by designing various types of gems and their placement, thereby enhancing the game's exploration and challenge aspects.
