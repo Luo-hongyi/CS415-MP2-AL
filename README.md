@@ -36,7 +36,7 @@ The enemies can inflict damage on players in the following ways:
 - Projectile explosion in the vicinity of the player
 - Direct hit on the player by a projectile (inflicts higher damage)
 
-When the player sustains damage, it is pushed back a few steps, lose control for a second, and visual and sound effects are triggered. Players can destroy enemies by jumping on their heads or tops, which in turn increases the player's health points.
+When the player takes damage, it is pushed back a few steps, lose control for a second, and visual and sound effects are triggered. Players can destroy enemies by jumping on their heads or tops, which in turn increases the player's health points.
 
 Player must kill (destroy) a certain number of enemies to win. This means that player cannot win by avoiding enemies.
 
