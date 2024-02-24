@@ -38,6 +38,8 @@ The enemies can inflict damage on players in the following ways:
 
 When the player sustains damage, it is pushed back a few steps, lose control for a second, and visual and sound effects are triggered. Players can destroy enemies by jumping on their heads or tops, which in turn increases the player's health points.
 
+Player must kill (destroy) a certain number of enemies to win. This means that player cannot win by avoiding enemies.
+
 # Design Decisions
 
 - Opting for an open-world-like map design to enhance the player's exploration enjoyment and game complexity.
