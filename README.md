@@ -27,7 +27,7 @@ Three types of enemies have been designed for this game:
 
 1. Pursuer Enemy: Typically roams around randomly and charges towards the player upon sensing their presence. If the player is not detected (due to flying, hiding, or moving beyond sensing distance), it resumes its random roaming.
 2. Mortar Enemy: Continuously launches projectiles at random angles and distances, targeting areas with a high concentration of gems to escalate the game's difficulty. Explosions are accompanied by visual and sound effects upon the projectiles' impact.
-3. Flying Dragon Enemy: Cute design. Soars mid-air with minimal terrain restrictions, thereby escalating the player's evasion and hiding difficulty. Its other behaviors are akin to the Pursuer.
+3. Flying Dragon Enemy: It shoots fireballs. Soars mid-air with minimal terrain restrictions, thereby escalating the player's evasion and hiding difficulty. Its other behaviors are akin to the Pursuer.
 
 The enemies can inflict damage on players in the following ways:
 
