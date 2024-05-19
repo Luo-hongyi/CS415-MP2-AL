@@ -2,6 +2,9 @@
 
 This game is an open-world-like adventure where players are tasked to explore an island, collect gems, and combat enemies. The ultimate objective of the game is to collect a specified number of gems while preserving the player's health status.
 
+![Designer](./p1.jpg)
+![Game Play](./p2.jpg)
+
 # Map and Character
 
 The game features an open-world-like map, representing an island amid the ocean, encompassing diverse terrains such as grasslands, forests, hills, and mountains. The intricacy of this map provides players with a 5 to 10 minutes exploration experience.
